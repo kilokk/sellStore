@@ -1,0 +1,62 @@
+{
+  "NAV_TITLE_LEADER_BOARD": {
+    "_comment": "nav 標題",
+    "value": "排行榜"
+  },
+  "NAV_TITLE_WEEK_SINGLE_ROUND": {
+    "_comment": "nav 標題",
+    "value": "週排行-單局贏分"
+  },
+  "NAV_TITLE_WEEK_GAME_FIRST": {
+    "_comment": "nav 標題",
+    "value": "週排行-比賽第一名"
+  },
+  "NAV_TITLE_WEEK_POPULAR_VALUES": {
+    "_comment": "nav 標題",
+    "value": "週排行-人氣值"
+  },
+  "NAV_TITLE_FAMOUS_LEVEL": {
+    "_comment": "nav 標題",
+    "value": "名人堂-等級"
+  },
+  "NAV_TITLE_FAMOUS_SINGLE_ROUND": {
+    "_comment": "nav 標題",
+    "value": "名人堂-單局贏分"
+  },
+  "NAV_TITLE_FAMOUS_GAME_FIRST": {
+    "_comment": "nav 標題",
+    "value": "名人堂-比賽第一名"
+  },
+  "NAV_TITLE_FAMOUS_POPULAR_VALUES": {
+    "_comment": "nav 標題",
+    "value": "名人堂-人氣值"
+  },
+  "TAB_WEEK_RANKINGS": {
+    "_comment": "切換的tab",
+    "value": "週排行"
+  },
+  "TAB_FAMOUS_RANKINGS": {
+    "_comment": "切換的tab",
+    "value": "名人堂"
+  },
+  "SINGLE_ROUND": {
+    "_comment": "",
+    "value": "單局贏分"
+  },
+  "GAME_FIRST": {
+    "_comment": "",
+    "value": "比賽第一名"
+  },
+  "POPULAR_VALUES": {
+    "_comment": "",
+    "value": "人氣值"
+  },
+  "LEVEL": {
+    "_comment": "",
+    "value": "等級"
+  },
+  "LV.": {
+    "_comment": "等級：目前會員玩家等級最高的玩家，格式：Lv. XXX",
+    "value": "Lv."
+  }
+}
